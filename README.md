@@ -17,7 +17,7 @@ The dashboard leverages clear, insightful visualizations to uncover key financia
 - 📦 Stacked Bars – Product Revenue by Store
 - 🌍 Map-ready data fields for geographic drill-downs (if enabled)
 
-## 📌 Repository Highlights
+## 🖼️ Dashboard Image
 ![image](https://github.com/user-attachments/assets/b49d5120-9466-4f75-ab0f-05a5908a78fb)
 
 ## 🔍 Key Insights
