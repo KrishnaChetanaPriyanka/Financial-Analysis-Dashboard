@@ -18,7 +18,7 @@ The dashboard leverages clear, insightful visualizations to uncover key financia
 - 🌍 Map-ready data fields for geographic drill-downs (if enabled)
 
 ## 🖼️ Dashboard Image
-![image](https://github.com/user-attachments/assets/b49d5120-9466-4f75-ab0f-05a5908a78fb)
+![image](https://github.com/user-attachments/assets/316b8761-9c2a-4d00-bd30-4febc72d4bba)
 
 ## 🔍 Key Insights
 - Asia leads with $78.65M in total revenue (61.77%)
